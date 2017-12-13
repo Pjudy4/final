@@ -1,0 +1,22 @@
+body{
+	margin:20px;
+	background-color: #D2D7DF;
+}
+
+h1{font-family: Impact, sans-serif;
+	text-transform: uppercase;
+}
+
+h2{font-family: Impact, sans-serif;
+	text-transform: lowercase;
+}
+
+.attribution{
+	font-size:12px;
+}
+
+.home{font-family: Impact, sans-serif;
+	text-transform: uppercase;
+	color:#444;	
+	text-decoration: none;
+}
